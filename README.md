@@ -1,5 +1,4 @@
-# Google Maps Business Scraper Streamlit Web App
-  live : https://gmap-scraper-web-app-shakib-absar.streamlit.app/
+
 
 ## Overview
 
@@ -17,7 +16,7 @@ The scraped data is then saved in an Excel file for easy access and download.
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/sabsar42/Google-Map-Scrapper-Streamlit.git
+    
     cd Google-Map-Scrapper-Streamlit
     ```
 
@@ -75,10 +74,6 @@ The scraped data is then saved in an Excel file for easy access and download.
 
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Author
-
-Developed by Shakib Asbar.
+Developed by Umar.
